@@ -1,0 +1,23 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Cachés
+.mypy_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos sensibles
+.env
+
+# Opcional (archivos generados)
+*.mp3
